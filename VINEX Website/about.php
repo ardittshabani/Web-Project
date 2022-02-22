@@ -5,24 +5,10 @@
         <link rel="stylesheet" href="css/about.css">
     </head>
     <body>
-        <div class="div_c1">
-            <div class="header_div">
-                <div class="logo_div">
-                    <img src="images/vinex.jpg" alt="" height="150px", width="150px">
-                </div>
-                <div class="navigate_div">
-                    <ul>
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="services.php">Services</a></li>
-                        <li><a href="news.php">News</a></li>
-                        <li><a href="about.php">About</a></li>
-                        <li><a href="contact.php">Contact</a></li>
-                    </ul>
-                   
-                </div>
-            </div>
-            <div class="div_1_text">
-                    <h1>ABOUT VINEX</h1>
+        
+            <div class="slide slider1 active">
+                <div class="sliderText s1">
+            <h1>ABOUT VINEX</h1>
                     <p>
                         We are seeking for partners for cooperation
 Vinex is a factory for producing bolts and screws in the city of Viti in Kosovo. The producing program for producing bolts and screws in Vinex factory includes the producing technology according to DIN standards, with producing standards and samples with a diameter from 2mm to 16 mm.
@@ -34,49 +20,71 @@ Vinex is producer of the grid poles (high tension 35-400KV).
 All these products are protected in a professional way with hot galvanization. Most of our products are special part required based on the required specifications of our customers.
 We are seeking for partnership with the companies that deal with the same products or other interested companies in order to have a close cooperation, even joint investments that would increase the producing capacities.
                     </p>
-                    
+                    </div>
+                <div class="footer-basic">
+                <footer>
+                    <div class="social">
+                        <ul class="list-inline">
+                          <li class="list-inline-item"><a href="index.php">Home</a></li>
+                          <li class="list-inline-item"><a href="services.php">Services</a></li>
+                          <li class="list-inline-item"><a href="about.php">About</a></li>
+                          <li class="list-inline-item"><a href="contact.php">Contact</a></li>
+                        </ul>
+                        <p class="copyright">Vinex Company © 2021</p>
+                    </div>
+                </footer>
+                </div>
             </div>
-          
-         </div>
-         <div id="c_2">
-             <div>
-             <h2>Over 60 years of experience supplying the comercial constructoin industry</h2>
-             <p>Founden in 1957. Vinex is a wholesale distributor of constructoin fasteners and standard and custom anchor bolts. We specialize in fasteners for commercial consruction and manufacturing industries</p>
+            <div class="slide slider2 not-active">
+                <div class="sliderText s2">
+                    <h1>Over 60 years of experience supplying the comercial constructoin industry</h2>
+                    <p>Founden in 1957. Vinex is a wholesale distributor of constructoin fasteners and standard and custom anchor bolts. We specialize in fasteners for commercial consruction and manufacturing industries</p>
 
-             <h3>Custom F1554 anchor bolts & sag rods</h3>
-             <p>We stock thousands of bolts screws and fasteners, but what really sets us apart is our ability to make custom anchor bolts and sag rod assemblies. If you are loking for an anchor bolt 
-                 supplier in the southeast look no further. Our core customers are structural steel fabricators and general contractors, but we also furnish fasteners for machinery OEMs and repair. 
-             </p>
-
-             <h3>Construction fasteners specialists</h3>
-             <p>Vinex can furnish any bolt or fastener for comercial building construction, weather it's F156 anchor bolts, support rods, A325 structural connection bolts, roof screws
+                    <h1>Custom F1554 anchor bolts & sag rods</h3>
+                    <p>We stock thousands of bolts screws and fasteners, but what really sets us apart is our ability to make custom anchor bolts and sag rod assemblies. If you are loking for an anchor bolt 
+                        supplier in the southeast look no further. Our core customers are structural steel fabricators and general contractors, but we also furnish fasteners for machinery OEMs and repair. 
+                    </p>
+                </div>
+                <div class="footer-basic">
+                <footer>
+                    <div class="social">
+                        <ul class="list-inline">
+                          <li class="list-inline-item"><a href="index.php">Home</a></li>
+                          <li class="list-inline-item"><a href="services.php">Services</a></li>
+                          <li class="list-inline-item"><a href="about.php">About</a></li>
+                          <li class="list-inline-item"><a href="contact.php">Contact</a></li>
+                        </ul>
+                        <p class="copyright">Vinex Company © 2021</p>
+                    </div>
+                </footer>
+                </div>
+            </div>
+            <div class="slide slider3 not-active">
+                <div class="sliderText s3">
+                <h1>Construction fasteners specialists</h1>
+                <p>Vinex can furnish any bolt or fastener for comercial building construction, weather it's F156 anchor bolts, support rods, A325 structural connection bolts, roof screws
                  grade 5/8 bolts or socket head bolts for the machinery inside.
                  Anchor Bolt & Screw Company prides itself on its outstanding quality, delivery performance, innovative inventory management, and specifically designed VMI or other special inventory programs.
                   Anchor Bolt & Screw Company is a leader in the custom manufacturing industry. Many products we have developed have become industry standards. Anchor has an extremely strong distributor following, and is an active member of MWFA, IFI, NFDA, NTEA, STAFDA, TMA, and TMC.
-             </p>
-
-
+                </p>
+                <h1>Emloyment</h1>
+                <p>Vinex has near 60 employes right now but it before had count near 250 employes</p>
+                </div>
+                <div class="footer-basic">
+                <footer>
+                    <div class="social">
+                        <ul class="list-inline">
+                          <li class="list-inline-item"><a href="index.php">Home</a></li>
+                          <li class="list-inline-item"><a href="services.php">Services</a></li>
+                          <li class="list-inline-item"><a href="about.php">About</a></li>
+                          <li class="list-inline-item"><a href="contact.php">Contact</a></li>
+                        </ul>
+                        <p class="copyright">Vinex Company © 2021</p>
+                    </div>
+                </footer>
+                </div>
             </div>
-            <div id="images">
-                <img src="images/light.jpg" alt="">
-                <img src="images/p.jpg" alt="">
-            </div>
-            <h3>Emloyment</h3>
-            <p>Vinex has near 60 employes right now but it before had count near 250 employes</p>
-         </div>
-         <div class="footer-basic">
-            <footer>
-                <div class="social">
-                <ul class="list-inline">
-                    <li class="list-inline-item"><a href="index.html">Home</a></li>
-                    <li class="list-inline-item"><a href="services.html">Services</a></li>
-                    <li class="list-inline-item"><a href="about.html">About</a></li>
-                    <li class="list-inline-item"><a href="contact.html">Contact</a></li>
-                    
-                </ul>
-                <p class="copyright">Vinex Company © 2021</p>
-            </footer>
-        
-        </div>
+                          
+        <script src='js/about.js' type='text/javascript'></script>
     </body>
 </html>
