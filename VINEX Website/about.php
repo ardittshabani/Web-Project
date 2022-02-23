@@ -5,9 +5,9 @@
         <link rel="stylesheet" href="css/about.css">
     </head>
     <body>
-        
-            <div class="slide slider1 active">
+                    <div class="slide slider1 active">
                 <div class="sliderText s1">
+                <a href="index.php"><img src="images/vinex.jpg" alt="" height="150px"  width="150px" id='logo'></a>
             <h1>ABOUT VINEX</h1>
                     <p>
                         We are seeking for partners for cooperation
@@ -21,22 +21,24 @@ All these products are protected in a professional way with hot galvanization. M
 We are seeking for partnership with the companies that deal with the same products or other interested companies in order to have a close cooperation, even joint investments that would increase the producing capacities.
                     </p>
                     </div>
-                <div class="footer-basic">
-                <footer>
-                    <div class="social">
-                        <ul class="list-inline">
-                          <li class="list-inline-item"><a href="index.php">Home</a></li>
-                          <li class="list-inline-item"><a href="services.php">Services</a></li>
-                          <li class="list-inline-item"><a href="about.php">About</a></li>
-                          <li class="list-inline-item"><a href="contact.php">Contact</a></li>
-                        </ul>
-                        <p class="copyright">Vinex Company © 2021</p>
-                    </div>
-                </footer>
-                </div>
+                    <div class="footer-basic">
+            <footer>
+                <div class="social">
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="index.php">Home</a></li>
+                    <li class="list-inline-item"><a href="services.php">Services</a></li>
+                    <li class="list-inline-item"><a href="about.php">About</a></li>
+                    <li class="list-inline-item"><a href="contact.php">Contact</a></li>
+                    
+                </ul>
+                <p class="copyright">Vinex Company © 2021</p>
+            </footer>
+        
+     </div>
             </div>
             <div class="slide slider2 not-active">
                 <div class="sliderText s2">
+                <a href="index.php"><img src="images/vinex.jpg" alt="" height="150px"  width="150px" id='logo'></a>
                     <h1>Over 60 years of experience supplying the comercial constructoin industry</h2>
                     <p>Founden in 1957. Vinex is a wholesale distributor of constructoin fasteners and standard and custom anchor bolts. We specialize in fasteners for commercial consruction and manufacturing industries</p>
 
@@ -46,21 +48,23 @@ We are seeking for partnership with the companies that deal with the same produc
                     </p>
                 </div>
                 <div class="footer-basic">
-                <footer>
-                    <div class="social">
-                        <ul class="list-inline">
-                          <li class="list-inline-item"><a href="index.php">Home</a></li>
-                          <li class="list-inline-item"><a href="services.php">Services</a></li>
-                          <li class="list-inline-item"><a href="about.php">About</a></li>
-                          <li class="list-inline-item"><a href="contact.php">Contact</a></li>
-                        </ul>
-                        <p class="copyright">Vinex Company © 2021</p>
-                    </div>
-                </footer>
-                </div>
+            <footer>
+                <div class="social">
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="index.php">Home</a></li>
+                    <li class="list-inline-item"><a href="services.php">Services</a></li>
+                    <li class="list-inline-item"><a href="about.php">About</a></li>
+                    <li class="list-inline-item"><a href="contact.php">Contact</a></li>
+                    
+                </ul>
+                <p class="copyright">Vinex Company © 2021</p>
+            </footer>
+        
+     </div>
             </div>
             <div class="slide slider3 not-active">
                 <div class="sliderText s3">
+                <a href="index.php"><img src="images/vinex.jpg" alt="" height="150px"  width="150px" id='logo'></a>
                 <h1>Construction fasteners specialists</h1>
                 <p>Vinex can furnish any bolt or fastener for comercial building construction, weather it's F156 anchor bolts, support rods, A325 structural connection bolts, roof screws
                  grade 5/8 bolts or socket head bolts for the machinery inside.
@@ -71,19 +75,21 @@ We are seeking for partnership with the companies that deal with the same produc
                 <p>Vinex has near 60 employes right now but it before had count near 250 employes</p>
                 </div>
                 <div class="footer-basic">
-                <footer>
-                    <div class="social">
-                        <ul class="list-inline">
-                          <li class="list-inline-item"><a href="index.php">Home</a></li>
-                          <li class="list-inline-item"><a href="services.php">Services</a></li>
-                          <li class="list-inline-item"><a href="about.php">About</a></li>
-                          <li class="list-inline-item"><a href="contact.php">Contact</a></li>
-                        </ul>
-                        <p class="copyright">Vinex Company © 2021</p>
-                    </div>
-                </footer>
-                </div>
+            <footer>
+                <div class="social">
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="index.php">Home</a></li>
+                    <li class="list-inline-item"><a href="services.php">Services</a></li>
+                    <li class="list-inline-item"><a href="about.php">About</a></li>
+                    <li class="list-inline-item"><a href="contact.php">Contact</a></li>
+                    
+                </ul>
+                <p class="copyright">Vinex Company © 2021</p>
+            </footer>
+        
+     </div>
             </div>
+           
                           
         <script src='js/about.js' type='text/javascript'></script>
     </body>

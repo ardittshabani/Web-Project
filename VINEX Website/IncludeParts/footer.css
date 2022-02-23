@@ -1,77 +1,11 @@
-.header_div{
-    margin: auto;
-    display: inline-flex;
-    background-color: rgba(251, 876, 476, 0.3);
-}
-
-.navigate_div ul li{
-    display: inline-flex;
-    margin-right: 50px;
-    
-}
-#logo {
-  border-radius: 100px;
-}
-
-.navigate_div ul{
-    margin-top: 70px;
-}
-.div_1{
-    height: 678px;
-    background-image: url("../images/christopher-burns-8KfCR12oeUM-unsplash.jpg");
-    background-size: cover;
-}
-.navigate_div {
-    width: 1350px;
-    text-align: left;
-    display: inline-flex;
-    
-}
-.div_2{
-    
-    height: 738px;
-
-    background-color: palegoldenrod;
-}
-a{
-    text-decoration: none;
-    color: black;
-    border-style: hidden;
-    
-}
-h1{
-display: block;
-color: cadetblue;
-text-align: center;
-margin-top: 107px;
-font-size: -webkit-xxx-large;
-}
-
-.div_c1{
-    height: 600px;
-    background-image: url("8.jpg");
-    background-size: cover;
-}
-
-  .contact-us{
-    
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 500px;
-    margin:auto;
-}
-.contact-us div{
-  margin-top: 20px;
-  
-}
 .footer-basic {
     background-color:#ffffff;
     opacity: 0.8;
     bottom: 0.5%;
     left: 0;
     right: 0;
-        
+    position: absolute;
+    
 }
       
 .footer-basic ul {

@@ -8,7 +8,7 @@
       <div class="div_1">
         <div class="header_div">
             <div class="logo_div">
-                <img src="images/vinex.jpg" alt="" height="150px", width="150px">
+            <a href="index.php"><img src="images/vinex.jpg" alt="" height="150px"  width="150px" id='logo'></a>
             </div>
             <div class="navigate_div">
                 <ul>
@@ -36,8 +36,8 @@
            
         </div>
       
-     </div>
-     <div class="footer-basic">
+    </div>
+    <div class="footer-basic">
         <footer>
             <div class="social">
             <ul class="list-inline">
@@ -50,6 +50,6 @@
             <p class="copyright">Vinex Company © 2021</p>
         </footer>
     
-    </div>
+     </div>
     </body>
 </html>
