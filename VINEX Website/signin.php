@@ -6,9 +6,14 @@
     <title>Sign up</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='css/signin.css'>
+    <link rel="stylesheet" href="css/IncludeParts.css">
    
 </head>
 <body>
+       <!--Header -->
+       <?php
+        include 'IncludeParts/header.php';
+     ?> 
     <div class="center_div">
     <div class="div_1">
         <div class="div_1_left">
@@ -34,10 +39,11 @@
         </div>
     </div>
     
-    <?php
-        include 'IncludeParts/footer.php';
-         ?>
+ 
     </div>
-   
+        <!--Footer -->
+        <?php
+        include 'IncludeParts/footer.php';
+     ?>
 </body>
 </html>

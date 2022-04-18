@@ -7,7 +7,7 @@
     <body>
                     <div class="slide slider1 active">
                 <div class="sliderText s1">
-                <a href="index.php"><img src="images/vinex.jpg" alt="" height="150px"  width="150px" id='logo'></a>
+                <a href="index.php"><img src="images/logo/vinex.jpg" alt="" height="150px"  width="150px" id='logo'></a>
             <h1>ABOUT VINEX</h1>
                     <p>
                         We are seeking for partners for cooperation

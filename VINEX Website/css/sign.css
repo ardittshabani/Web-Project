@@ -1,6 +1,6 @@
 
 .center_div{
-background-image: url("../images/backround1.jpg");
+background-image: url("../images/Background/backround1.jpg");
 padding-top: 80px;
 padding-left: 310px;
 padding-right: 310px;
@@ -73,7 +73,7 @@ button.buton {
     color: aqua;
 }
 
-.footer-basic {
+/*.footer-basic {
     background-color:#ffffff;
     opacity: 0.8;
     bottom: 0.5%;
@@ -135,4 +135,4 @@ button.buton {
         font-size:13px;
         color:#aaa;
         margin-bottom:0;
- }
+ }*/

@@ -8,13 +8,13 @@
 
 
 .center_div{
-    background-image: url("../images/login_.jpg");
+    background-image: url("../images/Background/login_.jpg");
     padding-top: 80px;
     text-align: center;
     background-repeat: round;
 }
 .div_1_left {
-    background-image: url("../images/signin_right.png");
+    background-image: url("../images/Background/signin_right.png");
     width: 350px;
     height: 500px;
 }
@@ -97,7 +97,7 @@ input#password{
     border-style: hidden;
 }
 
-.footer-basic {
+/*.footer-basic {
     background-color:#ffffff;
     opacity: 0.8;
     bottom: 0.5%;
@@ -158,4 +158,4 @@ input#password{
         font-size:13px;
         color:#aaa;
         margin-bottom:0;
- }
+ }*/
