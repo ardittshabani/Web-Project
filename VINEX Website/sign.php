@@ -14,19 +14,16 @@
         <?php
         include 'IncludeParts/header.php';
      ?> 
-    <div class="center_div">
-        <div class="div_1">
-           <div class="div_1_1">
-               <div>
-                 <input type="email" id="email" placeholder="Enter email">
-                 <input type="password" id="password" placeholder="Enter Password">
-                 <a href="">forgot password?</a>
-                 <button type="button" class="buton">SIGN IN</button>
-                </div>
-           </div>
+      <section class="">
+        <div class="con">
+            <h1>Welcome Back</h1>
+            <form  action="">
+                <input type="text" placeholder="Username"></input>
+                <input type="password" placeholder="password"></input>
+                <input type="submit" placeholder="Login"></input>
+            </form>
         </div>
-        
-
+      </section>
      <!--Footer -->
      <?php
         include 'IncludeParts/footer.php';

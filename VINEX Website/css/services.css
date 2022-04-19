@@ -1,20 +1,21 @@
-.link-div{
-    border: 1px solid;
+.button-div{
     margin-top: 5px;
     text-align: center;
 }
-
-.link-div a {
-    text-decoration: none;
+button.btn-pro {
+    background: white;
     color: black;
+    font-size: initial;
+    font-variant: all-small-caps;
 }
 
-.link-div h5{
-    margin: 4px;
+.buttons-div {
+    display: block;
+    padding: 15px;
 }
 
 .products-div{
-    width: 86%;
+    width: 88%;
     border: 1px solid;
     display: flex;
     flex-wrap: wrap;
@@ -34,8 +35,27 @@
 .product {
     border: 1px solid;
     margin: 5px;
+    text-align: center;
 }
 
 .product img {
     margin: 8px;
+}
+
+.con-prod {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#plate {
+    display: flex;
+}
+
+#coil {
+    display: none;
+}
+
+.text-inside-div{
+    margin: 4%;
+    font-family: cursive;
 }

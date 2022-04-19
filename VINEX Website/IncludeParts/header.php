@@ -15,7 +15,7 @@ echo  '
         </ul>
     </div>
     <div class="contanier sign-div">
-        <a href="">Sign in</a>
+        <a href="sign.php">Sign in</a>
     </div>
 </div>
 </header>
