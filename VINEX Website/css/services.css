@@ -29,22 +29,33 @@ button.btn-pro {
 
 .base-div {
     display: flex;
-    border: 1px solid;
 }
 
-.product {
+.con-prod>div {
     border: 1px solid;
     margin: 5px;
     text-align: center;
+    width: 252px;
 }
 
-.product img {
+.con-prod img {
     margin: 8px;
+    width: 200px;
+    height: 200px;
 }
 
 .con-prod {
     display: flex;
     flex-wrap: wrap;
+}
+
+.con-prod h4{
+    margin: 0;
+}
+
+.con-prod p{
+    font-size: 11px;
+    margin: 5px;
 }
 
 #plate {
@@ -58,4 +69,13 @@ button.btn-pro {
 .text-inside-div{
     margin: 4%;
     font-family: cursive;
+}
+
+#bolts img{
+    height: 100px;
+}
+
+#nuts img {
+    width: 100px;
+    height: 100px;
 }
