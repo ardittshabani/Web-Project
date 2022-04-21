@@ -58,6 +58,13 @@
 
 /*...Header...*/
 
+/*Header media query*/
+@media only screen and (max-width: 500px){
+    body{
+        background-color: aqua;
+    }
+}
+
 /*...Footer...*/
 .footer-basic {
     background-color:lavender ;

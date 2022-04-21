@@ -13,16 +13,16 @@
     <div class="con base-div">
         <div class="con buttons-div">
             <div class="button-div alu-coil">
-                <button class="btn-pro" onclick = "coil()">Aluminium Coil</button>
+                <button class="btn-pro" onclick = "display('coil')">Aluminium Coil</button>
             </div>
             <div class="button-div alu-plate">
-                <button class="btn-pro" onclick = "plate()">Aluminium Plate</button>
+                <button class="btn-pro" onclick = "display('plate')">Aluminium Plate</button>
             </div>
             <div class="button-div">
-                <button class="btn-pro" onclick = "bolts()">Bolts</button>
+                <button class="btn-pro" onclick = "display('bolts')">Bolts</button>
             </div>
             <div class="button-div">
-                <button class="btn-pro" onclick = "nuts()">Nuts</button>
+                <button class="btn-pro" onclick = "display('nuts')">Nuts</button>
             </div>
         </div>
         <div class="products-div">

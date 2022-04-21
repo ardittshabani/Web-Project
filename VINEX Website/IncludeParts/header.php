@@ -11,7 +11,7 @@ echo  '
             <li><a href="index.php">HOME</a></li>
             <li><a href="about.php">ABOUT US</a></li>
             <li><a href="services.php">PRODUCTS</a></li>
-            <li><a href="contact.php">CONTATS</a></li>
+            <li><a href="contact.php">CONTACT US</a></li>
         </ul>
     </div>
     <div class="contanier sign-div">

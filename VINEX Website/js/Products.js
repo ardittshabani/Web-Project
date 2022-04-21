@@ -1,4 +1,4 @@
-function plate() {
+/*function plate() {
   var x=  document.getElementsByClassName("con-prod");
   for (let  i = 0;  i < x.length;  i++) {
     document.getElementsByClassName("con-prod")[i].style.display = 'none';   
@@ -28,4 +28,12 @@ function nuts(){
       document.getElementsByClassName("con-prod")[i].style.display = 'none';   
   }
   document.getElementById("nuts").style.display = 'flex';
+}*/
+
+function display(idd){
+  var x=  document.getElementsByClassName("con-prod");
+  for (let  i = 0;  i < x.length;  i++) {
+      document.getElementsByClassName("con-prod")[i].style.display = 'none';   
+  }
+  document.getElementById(idd).style.display = 'flex';
 }
