@@ -1,0 +1,57 @@
+/*...Header...*/
+.base-div{
+    display: flex;
+}
+
+.navigation-div ul{
+    display: inline-flex;
+    list-style-type: none; 
+}
+
+.navigation-div li {
+    margin-right: 20px;
+}
+
+#header_div{
+    grid-template: header;
+    background-color: rgb(15,0,18);
+    color: white;
+}
+
+.logo-div{
+    width: 20%;
+}
+
+.logo-div h1{
+    font-size: xxx-large;
+    margin: 4%;
+    
+}
+
+.navigation-div{
+    width: 70%;
+    padding: auto;
+}
+
+.contanier{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.contanier a{
+    text-decoration: none;
+    color: white;
+}
+
+.sign-div {
+    width: 10%;
+    display: flex;
+    
+}
+
+.sign-div a {
+    font-size: larger;
+    border: 1px solid;
+    padding: 8px;
+}

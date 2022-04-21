@@ -7,7 +7,7 @@
         public function __construct(){
             $this->db = new Database;
         }
-
+        
         public function getAluminumCoil(){
             $query = $this->db->pdo->query('SELECT * FROM aluminum_coil');
 
