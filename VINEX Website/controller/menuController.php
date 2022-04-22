@@ -90,7 +90,7 @@
 
         /*EDIT METHOD */
         public function editAluminumCoil($id){
-            $query = $this->db->pdo-prepare('SELECT * FROM aluminum_coil WHERE id = :id');
+            $query = $this->db->pdo->prepare('SELECT * FROM aluminum_coil WHERE id = :id');
             $query->bindParam(':id', $id);
             $query->execute();
 
@@ -98,7 +98,7 @@
         }
 
         public function editAluminumPlate($id){
-            $query = $this->db->pdo-prepare('SELECT * FROM aluminum_plate WHERE id = :id');
+            $query = $this->db->pdo->prepare('SELECT * FROM aluminum_plate WHERE id = :id');
             $query->bindParam(':id', $id);
             $query->execute();
 
@@ -122,7 +122,7 @@
         }
 
         /*UPDATE METHOD */
-        public function updateAluminumCoil($reques, $id){
+        public function updateAluminumCoil($request, $id){
             $query = $this->db->pdo->prepare('UPDATE aluminum_coil 
                                             SET kodi = :kodi, 
                                             foto = :foto, 
@@ -130,16 +130,32 @@
                                             width = :width, 
                                             pershkrimi = :pershkrimi
                                             WHERE id = :id');
-            $query->bindParam(':kodi', $reques['kodi']);  
-            $query->bindParam(':foto', $reques['foto']);
-            $query->bindParam(':thincness', $reques['thincness']);
-            $query->bindParam(':width', $reques['width']);
+            $query->bindParam(':kodi', $request['kodi']);  
+            $query->bindParam(':foto', $request['foto']);
+            $query->bindParam(':thincness', $request['thincness']);
+            $query->bindParam(':width', $request['width']);
             $query->bindParam(':pershkrimi', $reques['pershkrimi']);
             $query->bindParam(':id', $id); 
 
             $query->execute();
 
-            return header('Location: admin-home.php');
+            return header('Location: mesages-dashboard.php');
+        }
+
+        public function updateAluminumPlate($request, $id){
+            $query = $this->db->pdo->prepare('UPDATE aluminum_plate 
+                                            SET kodi = :kodi, 
+                                            foto = :foto, 
+                                            permasat = :permasat
+                                            WHERE id = :id');
+            $query->bindParam(':kodi', $request['kodi']);  
+            $query->bindParam(':foto', $request['foto']);
+            $query->bindParam(':permasat', $reques['permasat']);
+            $query->bindParam(':id', $id); 
+
+            $query->execute();
+
+            return header('Location: ../Dashboard/admin-home.php');
         }
 
         /*DELETE METHOD */

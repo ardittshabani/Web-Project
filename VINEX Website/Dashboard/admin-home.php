@@ -65,6 +65,8 @@
                     <th>Kodi</th>
                     <th>Thincness</th>
                     <th>width</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
                 </tr>
                 <tbody>
                 <?php
@@ -81,6 +83,8 @@
                     <th>Foto</th>
                     <th>Kodi</th>
                     <th>Permasat</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
                 </tr>
                 <tbody>
                 <?php
@@ -98,6 +102,8 @@
                     <th>Titulli</th>
                     <th>Diamtri</th>
                     <th>Permasat</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
                 </tr>
                 <tbody>
                 <?php
@@ -114,6 +120,8 @@
                     <th>Foto</th>
                     <th>Titulli</th>
                     <th>Pershkrimi</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
                 </tr>
                 <tbody>
                 <?php
