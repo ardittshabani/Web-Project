@@ -1,28 +1,14 @@
-newFunction();
-
-function newFunction() {
-    const name = document.getElementById("name");
-    const surname = document.getElementById("surname");
-    const email = document.getElementById("email");
-    const password = document.getElementById("password");
-    const form = document.getElementById("form");
-    const error = document.getElementById("error");
-    form.addEventListener('submit', (e) => {
-        
-        let mesages = [];
-
-        if (name.value === '' || name.value == null) {
-            mesages.push('name is required');
-
-        }
-
-        if(password.value === '' || password.value == null || password.value < 6){
-            mesages.push('incorret password');
-        }
-        
-        if(mesages.length > 0){
-            e.preventDefault();
-            error.innerText = mesages.join(', ');
-        }
-    });
+function validate(){
+    var name=document.getElementById('name').value;
+    var surname=document.getElementById('surname').value;
+    var email=document.getElementById('email').value;
+    var password=document.getElementById('password').value;
+    
+    if(name=="name" && surname=="surname" && email=="email" && password=="password"){
+        alert('Sign in was successful');
+        window.open("http://localhost/ProjektiWEB/Web-Project/VINEX%20Website/index.php");
+        return false;
+    }else{
+        alert('Sign in has failed');
+    }
 }

@@ -21,21 +21,22 @@
              
             </div>
         </div>
+        <form action="contact.php" method="POST">
         <div class="contact-us">
             <h2> Write a message here</h2>
-            <div>
-                 <input type="email" name="email" id="email" placeholder="Enter your email">
-            </div>
-               <div>
-                    <input type="text" name="name" id="name" cols="20" rows="10" placeholder=" enter your name">
-               </div>
-               <div>
+            
+                 <input type="email" name="" id="email" placeholder="Enter your email">
+            
+               
+                    <input type="password" name="" id="name" cols="20" rows="10" placeholder=" enter your password">
+               
+               
                    <textarea name="message" id="message" cols="50" rows="20" placeholder="Enter your message here"></textarea>
-               </div>
-                <input type="submit" value="Send">
+               
+                <input type="submit" value="Send" onclick="sendMessage()">
            
         </div>
-      
+      </form>
     </div>
     <div class="footer-basic">
         <footer>
@@ -51,5 +52,6 @@
         </footer>
     
      </div>
+     <script src="contact.js"></script>
     </body>
 </html>

@@ -25,9 +25,7 @@
      </div>
     </div>
     <div class="products">
-       <?php
-       include 
-       ?>
+    
     </div>
     <?php
         include 'IncludeParts/footer.php';
