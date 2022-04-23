@@ -1,6 +1,3 @@
-<head>
-<link rel="styleshet" href="footer.css"/>
-</head>
 <?php
     
    echo '

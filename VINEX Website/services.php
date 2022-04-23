@@ -3,32 +3,68 @@
     <head>
         <title>Vinex Website</title>
         <link rel="stylesheet" href="css/services.css">
+        <link rel="stylesheet" href="css/IncludeParts.css">
     </head>
     <body>
-      <div class="div_1">
-        <div class="header_div">
-            <div class="logo_div">
-            <a href="index.php"><img src="images/vinex.jpg" alt="" height="150px"  width="150px" id='logo'></a>
+    <!--Header -->
+    <?php
+        include_once 'IncludeParts/header.php';
+     ?> 
+    <div class="con base-div">
+        <div class="con buttons-div">
+            <div class="button-div alu-coil">
+                <button class="btn-pro" onclick = "display('coil')">Aluminium Coil</button>
             </div>
-            <div class="navigate_div">
-                <ul>
-                <li><a href="index.php">Home</a></li>
-                    <li><a href="services.php">Services</a></li>
-                    <li><a href="news.php">News</a></li>
-                    <li><a href="about.php">About</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                </ul>
-    
+            <div class="button-div alu-plate">
+                <button class="btn-pro" onclick = "display('plate')">Aluminium Plate</button>
+            </div>
+            <div class="button-div">
+                <button class="btn-pro" onclick = "display('bolts')">Bolts</button>
+            </div>
+            <div class="button-div">
+                <button class="btn-pro" onclick = "display('nuts')">Nuts</button>
             </div>
         </div>
+        <div class="products-div">
+            <div id="plate" class="con-prod">
+            <?php 
+                include_once 'views/readProduktet.php';
+                addAluminumPlate();
+            ?>
+            </div>
+            <!---->
+            <div id="coil" class="con-prod">
+            <?php 
+                include_once 'views/readProduktet.php';
+                addAluminumCoil();
+            ?>
+            </div>
+            <div id="bolts" class="con-prod">
+            <?php 
+                include_once 'views/readProduktet.php';
+                addBolts();
+            ?>
+            </div>
+            <div id="nuts" class="con-prod">
+            <?php 
+                include_once 'views/readProduktet.php';
+                addNuts();
+            ?>
+            </div>
+        </div>
+<<<<<<< HEAD
         
      </div>
     </div>
     <div class="products">
     
+=======
+>>>>>>> 1800d35b77dbe4330f3ceb4c44273650963930a1
     </div>
-    <?php
-        include 'IncludeParts/footer.php';
-         ?>
+     <!--Footer -->
+     <?php
+        include_once 'IncludeParts/footer.php';
+     ?>
+      <script src='js/Products.js' type='text/javascript'></script>
     </body>
 </html>

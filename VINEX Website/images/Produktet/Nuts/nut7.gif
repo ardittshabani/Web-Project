@@ -1,0 +1,915 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><title>
+	Wing nuts - Bolt Depot
+</title><script async src="https://www.googletagmanager.com/gtag/js?id=UA-22428819-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-22428819-1');
+  gtag('config', 'AW-1072739110');
+  
+</script><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"36000649"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1128629420866689');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1128629420866689&ev=PageView&noscript=1"/>
+</noscript>
+<script>
+!function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_lcrxn');rdt('track', 'PageVisit');
+</script><meta name="viewport" content="width=device-width" /><link rel="icon" type="image/png" href="images/icons/favicon-64.png" /><link rel="preload" href="fonts/kulturista/Kulturista_Semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="fonts/proxima-nova/ProximaNova-RegWeb.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="fonts/proxima-nova/ProximaNova-SboldWeb.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="fonts/proxima-nova/ProximaNova-BoldWeb.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="fonts/font-awesome/fonts/fontawesome-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+    
+    <script type="text/javascript">
+	    function toggleDetails(cssclass) {
+	        var selector = '.' + cssclass;
+	        $(selector).toggleClass('hidden');
+	        $(selector).toggleClass('shown');
+	    }
+    </script>
+
+
+    
+    <script>
+        window.__lc = window.__lc || {};
+        window.__lc.license = 12993870;
+        ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+    </script>
+    <noscript><a href="https://www.livechatinc.com/chat-with/12993870/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+    
+    <link href="/css/siteCss?v=n2jeDqdAQiRopKfjcx2aFE8yKXmUsEz0EKpDE4mhJhA1" rel="stylesheet"/>
+
+    
+    <link href="Css/lightbox.css" rel="stylesheet"/>
+
+<meta description="Nuts have internal machine threads, for use with machine thread bolts and screws. A nut that is installed by hand." /><link rel="canonical" href="https://www.boltdepot.com/Wing_nuts.aspx" /></head>
+<body>
+
+<form method="post" action="/Wing_nuts.aspx" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MDI1MzIyMg8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAmYPZBYEAgEPZBYIAgEPFgIeBFRleHQFsAI8c2NyaXB0IGFzeW5jIHNyYz0iaHR0cHM6Ly93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vZ3RhZy9qcz9pZD1VQS0yMjQyODgxOS0xIj48L3NjcmlwdD4NCjxzY3JpcHQ+DQogIHdpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOw0KICBmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKTt9DQogIGd0YWcoJ2pzJywgbmV3IERhdGUoKSk7DQogIGd0YWcoJ2NvbmZpZycsICdVQS0yMjQyODgxOS0xJyk7DQogIGd0YWcoJ2NvbmZpZycsICdBVy0xMDcyNzM5MTEwJyk7DQogIA0KPC9zY3JpcHQ+ZAICDxYCHwEFuwM8c2NyaXB0PihmdW5jdGlvbih3LGQsdCxyLHUpe3ZhciBmLG4saTt3W3VdPXdbdV18fFtdLGY9ZnVuY3Rpb24oKXt2YXIgbz17dGk6IjM2MDAwNjQ5In07by5xPXdbdV0sd1t1XT1uZXcgVUVUKG8pLHdbdV0ucHVzaCgicGFnZUxvYWQiKX0sbj1kLmNyZWF0ZUVsZW1lbnQodCksbi5zcmM9cixuLmFzeW5jPTEsbi5vbmxvYWQ9bi5vbnJlYWR5c3RhdGVjaGFuZ2U9ZnVuY3Rpb24oKXt2YXIgcz10aGlzLnJlYWR5U3RhdGU7cyYmcyE9PSJsb2FkZWQiJiZzIT09ImNvbXBsZXRlInx8KGYoKSxuLm9ubG9hZD1uLm9ucmVhZHlzdGF0ZWNoYW5nZT1udWxsKX0saT1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHQpWzBdLGkucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUobixpKX0pKHdpbmRvdyxkb2N1bWVudCwic2NyaXB0IiwiLy9iYXQuYmluZy5jb20vYmF0LmpzIiwidWV0cSIpOzwvc2NyaXB0PmQCAw8WAh8BBZIFPHNjcmlwdD4NCiAgIWZ1bmN0aW9uKGYsYixlLHYsbix0LHMpDQogIHtpZihmLmZicSlyZXR1cm47bj1mLmZicT1mdW5jdGlvbigpe24uY2FsbE1ldGhvZD8NCiAgbi5jYWxsTWV0aG9kLmFwcGx5KG4sYXJndW1lbnRzKTpuLnF1ZXVlLnB1c2goYXJndW1lbnRzKX07DQogIGlmKCFmLl9mYnEpZi5fZmJxPW47bi5wdXNoPW47bi5sb2FkZWQ9ITA7bi52ZXJzaW9uPScyLjAnOw0KICBuLnF1ZXVlPVtdO3Q9Yi5jcmVhdGVFbGVtZW50KGUpO3QuYXN5bmM9ITA7DQogIHQuc3JjPXY7cz1iLmdldEVsZW1lbnRzQnlUYWdOYW1lKGUpWzBdOw0KICBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHQscyl9KHdpbmRvdywgZG9jdW1lbnQsJ3NjcmlwdCcsDQogICdodHRwczovL2Nvbm5lY3QuZmFjZWJvb2submV0L2VuX1VTL2ZiZXZlbnRzLmpzJyk7DQogIGZicSgnaW5pdCcsICcxMTI4NjI5NDIwODY2Njg5Jyk7DQogIGZicSgndHJhY2snLCAnUGFnZVZpZXcnKTsNCjwvc2NyaXB0Pg0KPG5vc2NyaXB0Pg0KICA8aW1nIGhlaWdodD0iMSIgd2lkdGg9IjEiIHN0eWxlPSJkaXNwbGF5Om5vbmUiDQogICAgICAgIHNyYz0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3RyP2lkPTExMjg2Mjk0MjA4NjY2ODkmZXY9UGFnZVZpZXcmbm9zY3JpcHQ9MSIvPg0KPC9ub3NjcmlwdD4NCmQCBA8WAh8BBYcDPHNjcmlwdD4NCiFmdW5jdGlvbih3LGQpe2lmKCF3LnJkdCl7dmFyIHA9dy5yZHQ9ZnVuY3Rpb24oKXtwLnNlbmRFdmVudD9wLnNlbmRFdmVudC5hcHBseShwLGFyZ3VtZW50cyk6cC5jYWxsUXVldWUucHVzaChhcmd1bWVudHMpfTtwLmNhbGxRdWV1ZT1bXTt2YXIgdD1kLmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3Quc3JjPSJodHRwczovL3d3dy5yZWRkaXRzdGF0aWMuY29tL2Fkcy9waXhlbC5qcyIsdC5hc3luYz0hMDt2YXIgcz1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJzY3JpcHQiKVswXTtzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHQscyl9fSh3aW5kb3csZG9jdW1lbnQpO3JkdCgnaW5pdCcsJ3QyX2xjcnhuJyk7cmR0KCd0cmFjaycsICdQYWdlVmlzaXQnKTsNCjwvc2NyaXB0PmQCAxBkZBYCAg8PZBYCAgEPZBYCAgEPZBYCAgIPZBYCZg9kFgICAQ8WAh4HVmlzaWJsZWgWAgIBDxYCHgtfIUl0ZW1Db3VudAL/////D2Rk5APMifckSs7tlOA2sKknBUW76nLVZ+cQf2aSseDhthE=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=c-lj5cdHaaYgBM8vM8fqH7brYbr2e-rMHFr2RD6mRGViGR5BrjVjovJjBQpcPL4neEC_Dl2PhKpvweKJH9N-IlAeZR5Vz63oMvyx8PDObck1&amp;t=637729440413207958" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=azmh8tKDbTUQ6eHtYZgalPkIOFgjprllgZdRFIEz150Fc3ryBNsj4feWEDl4SlXooUjZSbyJnb7SI7WMUqG2Hoi5wbLwXP_5OzrBU45Tb0kKWDfSGSMvC049ExIeZQIk-pagdV6NIxkrkFsRaYQn2h2nWgD0Wda4ETkoSPm4PII1&amp;t=ffffffffd202a464" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=JzI6yZXVsES-FzgBuLjX686FiLSXWWSVbyrwPI6W5fxUn9fFi2CzjTVcsq5WB6RAXvxPZEz3kn0HJHS-nFGgiLZRp8OEOAu6QSDfbvvZA-_JnKcHG11y937lJzyZCkIQPPBH-SV7MY-1QbPDBeNaxO7tElnlvI4oeAPGKqjAgSxJPA3pSFeJavHrA3BM9RMm0&amp;t=ffffffffd202a464" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl10', 'aspnetForm', ['tctl00$ctl00$TopBar$_topBar$_searchBar$_autoSuggestPanel','','tctl00$ctl00$TopBar$_topBar$_microCartPanel','','tctl00$ctl00$Body$_notificationPopupPanel',''], ['ctl00$ctl00$TopBar$_topBar$_searchBar$_searchTextBox','_searchTextBox'], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+
+
+
+
+
+<div class="page-container">
+    
+    <header>
+    <div id="header" class="row">
+        <div class="sixteen mobile-four columns">
+            
+            <div class="top-info-area">
+                <div style="float: left"><a href="Default.aspx"><img id="bdlogo" src="https://www.boltdepot.com/images/bdlogo-normal.png" alt="Bolt Depot - Fastener Shopping Made Easy" /></a></div>
+                <div class="top-contact-info">
+                    <div>
+                        
+                    <b><a href="https://www.boltdepot.com/account/Default.aspx"><i class="fa fa-user"></i>Your Account</a></b>
+
+                    </div>
+                
+                    <div style="white-space: nowrap; display: inline-block">
+                    <a class="email" href="mailto:info@boltdepot.com">info@boltdepot.com</a>
+                    
+                        <span class="chat"><i class="fa fa-comments"></i><a href="#" onclick="LiveChatWidget.call('maximize'); return false;">Live Chat</a></span>
+                    
+                    <span class="phone"><i class="fa fa-phone"></i><span><a href="tel:8663379888">866-337-9888</a></span></span>
+                    </div>
+                </div>
+            </div>
+
+            <nav>
+                <div class="row">
+                    <div id="main-nav" class="sixteen columns">
+                        <ul class="nav-bar">
+                            
+    <li class="active"><a href="Catalog.aspx"><span class="hide-for-small">Product </span>Catalog</a></li>
+    <li><a href="service/Default.aspx"><span class="hide-for-small">Customer </span>Service</a></li>
+    <li><a href="about/Default.aspx">About<span class="hide-for-small"> Us</span></a></li>
+    <li><a href="fastener-information/Default.aspx"><span class="hide-for-small">Fastener </span>Info</a></li>
+
+                        </ul>
+                    </div>
+                </div>	
+            </nav>
+        </div>
+
+        <div class="sixteen mobile-four columns">
+            
+                
+
+<div class="sixteen columns">
+    <div class="row" id="mini-cart">
+        <div class="seven columns">
+            
+
+
+<div class="row text-search collapse">
+
+    
+    <div class="fourteen columns mobile-three">
+        <input name="ctl00$ctl00$TopBar$_topBar$_searchBar$_searchTextBox" type="text" id="_searchTextBox" placeholder="product# or fastener type" autocomplete="off" />
+    </div>
+    <div class="two columns mobile-one">
+        <a id="_searchButton" class="button button-input expand postfix" href="javascript:__doPostBack(&#39;ctl00$ctl00$TopBar$_topBar$_searchBar$_searchButton&#39;,&#39;&#39;)">
+            <i class="fa fa-search"></i>
+        </a>
+    </div>
+    
+    
+    <div id="ctl00_ctl00_TopBar__topBar__searchBar__autoSuggestPanel">
+	
+            
+        
+</div>
+
+</div>
+
+<script type="text/javascript">
+    var selectedIndex = 0;
+    function ClearSelection() {
+        if (selectedIndex > 0)
+            $('.auto-suggest-item').eq(selectedIndex - 1).removeClass('selected');
+    }
+    function ShowSelection() {
+        if (selectedIndex > 0)
+            $('.auto-suggest-item').eq(selectedIndex - 1).addClass('selected');
+    }
+    function SearchHandleKeypress(e) {
+        if (e.code === 'ArrowUp') {
+            if (selectedIndex > 0) {
+                ClearSelection();
+                selectedIndex--;
+                ShowSelection();
+            }
+        }
+        else if (e.code === 'ArrowDown') {
+            var count = $('.auto-suggest-item').size();
+            if (selectedIndex < count) {
+                ClearSelection();
+                selectedIndex++;
+                ShowSelection();
+            }
+        }
+        else if (e.code === 'Enter' || e.code === 'NumpadEnter') {
+            if (selectedIndex === 0) {
+                var searchTerm = $('#_searchTextBox').val();
+                var url = 'https://www.boltdepot.com/' + '/Search.aspx?q=' + encodeURIComponent(searchTerm);
+                window.location = url;
+            } else {
+                var url = $('.auto-suggest-link').eq(selectedIndex - 1).attr('href');
+                window.location = url;
+            }
+        }
+        else if (e.code === 'Escape') {
+            // escape hides autosuggest menu (if visible)
+            $('.auto-suggest-menu').hide();
+        }
+        else {
+            selectedIndex = 0;
+            __doPostBack('_searchTextBox', '');
+        }
+        return false;
+    };
+    function SearchHandleClick(e) {
+        // click anywhere hides autosuggest menu (if visible)
+        $('.auto-suggest-menu').hide();
+    }
+    document
+        .getElementById("_searchTextBox")
+        .addEventListener("keyup", SearchHandleKeypress);
+    document.body.addEventListener("click", SearchHandleClick);
+</script>
+        </div>
+        <div class="nine columns">
+            <div id="ctl00_ctl00_TopBar__topBar__microCartPanel">
+	
+                    
+
+<div class="row" style="text-align: right;">
+    <div class="sixteen columns micro-cart">
+
+        <a class="shopping-cart-link" href="ShoppingCart.aspx">
+            <i class="fa fa-shopping-cart fa-lg" aria-label="Shopping cart"></i>0 &nbsp;items<span class="hide-for-small">, $0.00</span>
+        </a>
+
+        <a class="button radius quick-add-button" title="Add items by product number and quantity" href="Quick-Add.aspx">Quick Add</a>
+        <a class="action button radius shopping-cart-button" title="View/edit your shopping cart, or check out" href="ShoppingCart.aspx">Cart / Checkout</a>
+    </div>
+</div>
+                
+</div>
+        </div>
+    </div>
+</div>
+            
+        </div>
+    </div>
+    </header>
+    
+    <div id="content" class="row">
+        <nav>
+            <div id="content-side" class="three mobile-four columns hide-for-print">
+                <div class="row">
+                    
+    
+        
+    
+    
+
+<div class="sixteen columns filters-control">
+    <div class="mobile-contracted">
+        
+        <h2 onclick="$(this).next().slideToggle('fast');$(this).parent().toggleClass('expanded').toggleClass('mobile-expanded').toggleClass('contracted').toggleClass('mobile-contracted')">
+            Filters
+        </h2>
+
+        <div class="mobile-initially-contracted">
+            
+        
+
+        
+                <div class="product-filter contracted">
+	
+                    <h3 onclick="$(this).next().slideToggle('fast');$(this).parent().toggleClass('expanded').toggleClass('contracted');">
+                        <span id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl00__title">Material</span>
+                    </h3>
+
+                    
+                    <div id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl00__optionsPanel" class="product-filter-options">
+		
+                        
+                        
+                        
+                        
+                                
+                                
+                                
+                                
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl00__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl00__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Material=Stainless_steel">
+                                            <span class="filter-option-title">
+                                                Stainless steel
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (14)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl00__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl01__filterOptionLink" class="filter-option" Title="A low carbon steel for general use. Zinc plated for moderate corrosion resistance. " href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Material=Steel&amp;F_Plating=Zinc">
+                                            <span class="filter-option-title">
+                                                Zinc plated steel
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (10)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl00__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl02__filterOptionLink" class="filter-option" Title="Solid brass. An alloy of primarily copper and zinc with good corrosion resistance. Used mostly in decorative and electrical applications. Exact color varies. " href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Material=Brass">
+                                            <span class="filter-option-title">
+                                                Brass
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (9)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl00__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl03__filterOptionLink" class="filter-option" Title="A hard plastic often used because of its corrosion resistance. " href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Material=Nylon">
+                                            <span class="filter-option-title">
+                                                Nylon
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (9)
+                                            </span>
+                                            </a>
+                                    
+                            
+
+                    
+	</div>
+        
+                    
+                    
+                
+</div>
+            
+                <div class="product-filter contracted">
+	
+                    <h3 onclick="$(this).next().slideToggle('fast');$(this).parent().toggleClass('expanded').toggleClass('contracted');">
+                        <span id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl01__title">Grade</span>
+                    </h3>
+
+                    
+                    <div id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl01__optionsPanel" class="product-filter-options">
+		
+                        
+                        
+                        
+                        
+                                
+                                
+                                
+                                
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl01__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl00__filterOptionLink" class="filter-option" Title="A corrosion resistant steel alloy. The most common stainless steel for general hardware use. " href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Grade=18--8">
+                                            <span class="filter-option-title">
+                                                18-8
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (8)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl01__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl01__filterOptionLink" class="filter-option" Title="A highly corrosion resistant grade of stainless steel. Ideal in salt water and chlorine environments. " href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Grade=316">
+                                            <span class="filter-option-title">
+                                                316
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (6)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl01__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl02__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Grade=6%2f6">
+                                            <span class="filter-option-title">
+                                                6/6
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (9)
+                                            </span>
+                                            </a>
+                                    
+                            
+
+                    
+	</div>
+        
+                    
+                    
+                
+</div>
+            
+                <div class="product-filter contracted">
+	
+                    <h3 onclick="$(this).next().slideToggle('fast');$(this).parent().toggleClass('expanded').toggleClass('contracted');">
+                        <span id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__title">Diameter</span>
+                    </h3>
+
+                    
+                    <div id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__optionsPanel" class="product-filter-options">
+		
+                        
+                        <div>
+			
+                            <img src='images/diameter/wing-nut-diameter.gif'
+                                 class="filter-explanation-image"
+                                 title='Nut size (A.K.A. diameter) is the size bolt that the nut is used with. The same is true of the thread count. Thus a 1/4"-20 nut fits a 1/4"-20 bolt.'
+                                 />
+                        
+		</div>
+                        
+                        
+                                
+                                <div class="filter-group-title">
+			
+                                    <span id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterGroupTitleLabel">US</span>
+                                
+		</div>
+                                
+                                
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl00__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=%234">
+                                            <span class="filter-option-title">
+                                                #4
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (1)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl01__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=%236">
+                                            <span class="filter-option-title">
+                                                #6
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (4)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl02__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=%238">
+                                            <span class="filter-option-title">
+                                                #8
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (4)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl03__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=%2310">
+                                            <span class="filter-option-title">
+                                                #10
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (10)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl04__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=%2312">
+                                            <span class="filter-option-title">
+                                                #12
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (1)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl05__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=1%2f4%22">
+                                            <span class="filter-option-title">
+                                                1/4"
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl06__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=5%2f16%22">
+                                            <span class="filter-option-title">
+                                                5/16"
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl07__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=3%2f8%22">
+                                            <span class="filter-option-title">
+                                                3/8"
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl08__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=7%2f16%22">
+                                            <span class="filter-option-title">
+                                                7/16"
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (1)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl09__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=1%2f2%22">
+                                            <span class="filter-option-title">
+                                                1/2"
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl02__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl10__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Diameter=5%2f8%22">
+                                            <span class="filter-option-title">
+                                                5/8"
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (1)
+                                            </span>
+                                            </a>
+                                    
+                            
+
+                    
+	</div>
+        
+                    
+                    
+                
+</div>
+            
+                <div class="product-filter contracted">
+	
+                    <h3 onclick="$(this).next().slideToggle('fast');$(this).parent().toggleClass('expanded').toggleClass('contracted');">
+                        <span id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__title">Thread density</span>
+                    </h3>
+
+                    
+                    <div id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__optionsPanel" class="product-filter-options">
+		
+                        
+                        
+                        
+                        
+                                
+                                <div class="filter-group-title">
+			
+                                    <span id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterGroupTitleLabel">Coarse</span>
+                                
+		</div>
+                                
+                                
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl00__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=11">
+                                            <span class="filter-option-title">
+                                                11
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (1)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl01__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=13">
+                                            <span class="filter-option-title">
+                                                13
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl02__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=14">
+                                            <span class="filter-option-title">
+                                                14
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (1)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl03__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=16">
+                                            <span class="filter-option-title">
+                                                16
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl04__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=18">
+                                            <span class="filter-option-title">
+                                                18
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl05__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=20">
+                                            <span class="filter-option-title">
+                                                20
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (5)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl06__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=24">
+                                            <span class="filter-option-title">
+                                                24
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (6)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl07__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=32">
+                                            <span class="filter-option-title">
+                                                32
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (13)
+                                            </span>
+                                            </a>
+                                    
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl00__filterOptionsRepeater_ctl08__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=40">
+                                            <span class="filter-option-title">
+                                                40
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (1)
+                                            </span>
+                                            </a>
+                                    
+                            
+                                
+                                <div class="filter-group-title">
+			
+                                    <span id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl01__filterGroupTitleLabel">Fine</span>
+                                
+		</div>
+                                
+                                
+                                        <a id="ctl00_ctl00_Leftnav__filtersControl__filtersRepeater_ctl03__filterGroupsRepeater_ctl01__filterOptionsRepeater_ctl00__filterOptionLink" class="filter-option" Title="" href="https://www.boltdepot.com/Browse.aspx?Units=US&amp;Category=Nuts&amp;Subcategory=Wing_nuts&amp;F_Thread_count=32">
+                                            <span class="filter-option-title">
+                                                32
+                                            </span>
+                                            <span class="filter-option-count">
+                                                (13)
+                                            </span>
+                                            </a>
+                                    
+                            
+
+                    
+	</div>
+        
+                    
+                    
+                
+</div>
+            
+                
+            
+            
+        
+        
+        </div>
+
+    </div>
+</div>
+
+    
+    <span><div id="partners" class="partners hide-for-small hide-for-print">
+  <p>
+    <a target="_BLANK" title="Click here for BBB Business Review" href="http://www.bbb.org/boston/business-reviews/bolts-and-nuts/bolt-depot-inc-in-north-weymouth-ma-11312/#bbbonlineclick"><img alt="Click here for BBB Business Review" border="0" src="https://ourbbbonline2.bbb.org/Boston/BBBOnlineSeal/11312/H2/0/seal.png" width="120" height="70" style="margin: 6px;" /></a><br />
+  </p>
+</div></span>
+    
+
+                </div>
+            </div>
+        </nav>
+        <main>
+            <div id="content-main" class="thirteen mobile-four columns">
+                
+    
+    <div id="ctl00_ctl00_Body__notificationPopupPanel">
+	
+            
+
+<div class="notification-popup"></div>
+<div class="notification-highlight">&nbsp;</div>
+
+<script type="text/javascript">
+    function pageLoad(sender, args) { 
+        var message = $('.notification-popup').text();
+        if (message) {
+            $('.notification-popup').show();
+            $('.notification-highlight').show();
+            $('.notification-highlight').css('height',
+                $('.notification-popup').css('height'));
+            $('.notification-highlight').fadeOut(1500, 'swing');
+            $('.notification-popup').delay(5000).slideUp();
+        }
+    }
+</script>
+        
+</div>
+
+    
+    <div class="row">
+        <div class="twelve columns mobile-three">
+            
+            
+
+<nav>
+<div id="ctl00_ctl00_Body_Body__ctrl_0__catalogBreadcrumbsControl" class="twelve columns themeUS">
+	
+    <a href="https://www.boltdepot.com/Catalog.aspx">Product Catalog</a> &raquo; <a href="https://www.boltdepot.com/Nuts.aspx">Nuts</a>   
+
+</div>  
+</nav>
+    
+<div id="catalog-header-title" class="eleven columns end">
+    <span id="ctl00_ctl00_Body_Body__ctrl_0__headingLabel" class="header-title"><h1>Wing nuts</h1></span>  
+</div>
+        </div>
+        <div class="four columns mobile-one">
+            <img id="ctl00_ctl00_Body_Body__ctrl_1_CatalogImage" src="images/catalog/wing-nut.gif" alt="Wing nut" />
+
+        </div>
+    </div>
+    <div class="row">
+        
+<div id="catalog-header-content" class="eleven columns">
+
+    
+    
+    
+    
+
+    
+    
+</div>
+
+<div id="catalog-header-resources" class="five columns right">
+	
+
+</div>
+
+
+
+
+
+        
+
+<div class="sixteen columns">
+    
+
+<table id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable" class="sixteen product-catalog-table split themeUS" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<th scope="col">
+        <h2><span id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl00_TitleLabel">Wing nuts</span></h2>
+    </th>
+	</tr><tr>
+		<td>
+         <a id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__sectionImageHyperLink" class="product-catalog-image"></a>
+     
+         <h3 class="product-catalog-name">
+            <span id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__sectionTitleLabel">Material</span>
+            
+         </h3>
+         <p class="product-catalog-desc"><span id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__sectionDescription"></span></p>
+        
+   
+         <ul class="disc">
+             
+            
+                <li>
+                    
+                
+                    <a id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__multiColumnSectionListItemsRepeater_ctl01__listItemHyperLink" title="A corrosion resistant steel alloy. The most common stainless steel for general hardware use." href="https://www.boltdepot.com/Wing_nuts_Stainless_steel_18-8.aspx">
+                    <span class="material-specific">Stainless steel 18-8</span>
+                    </a>
+                    
+                    <p class='product-catalog-materials-desc hidden details0'>
+                        A corrosion resistant steel alloy. The most common stainless steel for general hardware use.
+                    </p>
+                    
+                </li>
+            
+                <li>
+                    
+                
+                    <a id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__multiColumnSectionListItemsRepeater_ctl02__listItemHyperLink" title="A highly corrosion resistant grade of stainless steel. Ideal in salt water and chlorine environments." href="https://www.boltdepot.com/Wing_nuts_Stainless_steel_316.aspx">
+                    <span class="material-specific">Stainless steel 316</span>
+                    </a>
+                    
+                    <p class='product-catalog-materials-desc hidden details0'>
+                        A highly corrosion resistant grade of stainless steel. Ideal in salt water and chlorine environments.
+                    </p>
+                    
+                </li>
+            
+                <li>
+                    
+                
+                    <a id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__multiColumnSectionListItemsRepeater_ctl03__listItemHyperLink" title="A low carbon steel for general use. Zinc plated for moderate corrosion resistance." href="https://www.boltdepot.com/Wing_nuts_Zinc_plated_steel.aspx">
+                    <span class="material-specific">Zinc plated steel</span>
+                    </a>
+                    
+                    <p class='product-catalog-materials-desc hidden details0'>
+                        A low carbon steel for general use. Zinc plated for moderate corrosion resistance.
+                    </p>
+                    
+                </li>
+            
+                <li>
+                    
+                
+                    <a id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__multiColumnSectionListItemsRepeater_ctl04__listItemHyperLink" title="Solid brass. An alloy of primarily copper and zinc with good corrosion resistance. Used mostly in decorative and electrical applications. Exact color varies." href="https://www.boltdepot.com/Wing_nuts_Brass.aspx">
+                    <span class="material-specific">Brass</span>
+                    </a>
+                    
+                    <p class='product-catalog-materials-desc hidden details0'>
+                        Solid brass. An alloy of primarily copper and zinc with good corrosion resistance. Used mostly in decorative and electrical applications. Exact color varies.
+                    </p>
+                    
+                </li>
+            
+                <li>
+                    
+                
+                    <a id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__multiColumnSectionListItemsRepeater_ctl05__listItemHyperLink" title="A general purpose nylon often used in fasteners for corrosion resistance." href="https://www.boltdepot.com/Wing_nuts_Nylon_6_6.aspx">
+                    <span class="material-specific">Nylon 6/6</span>
+                    </a>
+                    
+                    <p class='product-catalog-materials-desc hidden details0'>
+                        A general purpose nylon often used in fasteners for corrosion resistance.
+                    </p>
+                    
+                </li>
+                            
+            
+            
+        </ul>
+        
+        <div id="ctl00_ctl00_Body_Body__catalogBrowserControl__sectionsMulticolumnTable_ctl01__showHideDetailsPanel">
+			
+        <p><a href="javascript:void(0)" class="button radius details0" onclick='toggleDetails("details0")'>Show Details</a></p>
+        <p><a href="javascript:void(0)" class="button radius hidden details0" onclick='toggleDetails("details0")'>Hide Details</a></p>
+        
+		</div>
+        
+    </td>
+	</tr>
+</table>
+
+
+
+
+
+
+
+</div>
+        
+
+
+
+    </div>
+
+
+            </div>
+        </main>
+    </div>
+    
+    <footer>
+    <div id="footer" class="row">
+        <div class="sixteen mobile-four columns">
+            <hr />
+            <p><span>Copyright &copy; 2000-2022 Bolt Depot, Inc.</span></p>
+            <p class="hide-for-screen">
+                <a href="https://www.boltdepot.com">www.boltdepot.com</a> &bull;
+                <a href="mailto:info@boltdepot.com">info@boltdepot.com</a> &bull;
+                Toll free: <span><a href="tel:8663379888">866-337-9888</a></span>
+            </p>
+            <nav>
+            <p class="hide-for-print">
+                <a href="Default.aspx?nv=b">Home</a> | 
+                <a href="Catalog.aspx?nv=b">Product catalog</a> | 
+                <a href="Service/Default.aspx?nv=b">Customer service</a> | 
+                <a href="About/Default.aspx?nv=b">About us</a> | 
+                <a href="Fastener-Information/Default.aspx?nv=b">Fastener information</a>
+                <br />
+                <a href="Legal-Summary.aspx?nv=b">Terms and conditions</a> |
+                <a href="Service/Privacy-Policy.aspx">Privacy Policy</a> |
+                <a href="Feedback.aspx?nv=b">Contact us</a>
+            </p>
+            </nav>
+            
+        </div>
+    </div>
+    </footer>
+</div>
+
+
+<script src="/bundles/foundationJs?v=_28fk_E1uIaxODhK4A7M_vggopYFDJu31GI7HItfkJ41"></script>
+
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1DC47A59" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAPWH02QzgwadLNLG+KyAsWn87mjMys0RXLRYAB74YH01f1iUBuqMvjJE/d/0Lab0BR7d9oYWVHs4PANSOuBv19jX19pbpdwl1zxPsZqJgqkvQ==" />
+</div>
+<script type='text/javascript'>toggleDetails('details0')</script><script src="js/lightbox.min.js" Type="text/javascript"></script></form>
+
+</body>
+</html>
