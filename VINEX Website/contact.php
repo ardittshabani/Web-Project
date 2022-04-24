@@ -52,6 +52,27 @@
             .login .input:last-child{
                 margin-right: 0;
             }
+            details {
+                 border: 1px solid #aaa;
+                 border-radius: 4px;
+                padding: .5em .5em 0;
+            }
+
+            summary {
+            font-weight: bold;
+            margin: -.5em -.5em 0;
+            padding: .5em;
+            }
+
+            details[open] {
+                padding: .5em;
+            }
+
+            details[open] summary {
+                border-bottom: 1px solid #aaa;
+                margin-bottom: .5em;
+            }
+
 
             .btn{
                 width: 250px;
@@ -80,33 +101,34 @@
     <div class="boddy">
         <div class="con">
             <p>contact us</p>
-
+            <form id="form" action="/" method="GET">
             <div class="login">
-                <input type="text" class="input" placeholder="Your Name">
-                <input type="text" class="input" placeholder="Your Email Address">
+                <details>
+                    <summary>Password Form</summary>
+                   A form with a password field that must contain 8 or more characters that are of at least one number, and one uppercase and lowercase letter
+                </details>
+                <input id="username" type="text" class="input" placeholder="Username" required />
+                <input id="password" type="password" class="input" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" placeholder="Your Password"  />
             </div>
 
             <div class="subject">
-                <input type="text" class="input" placeholder="Subject">
+                <input type="text" class="input" placeholder="Subject(optional)">
             </div>
-<<<<<<< HEAD
+        
+            
         </div>
-        <form action="contact.php" method="POST">
+       
         <div class="contact-us">
             <h2> Write a message here</h2>
             
-                 <input type="email" name="" id="email" placeholder="Enter your email">
-            
                
-                    <input type="password" name="" id="name" cols="20" rows="10" placeholder=" enter your password">
+                   <textarea name="message" id="message" cols="50" rows="20" placeholder="Enter your message here" required></textarea>
                
-               
-                   <textarea name="message" id="message" cols="50" rows="20" placeholder="Enter your message here"></textarea>
-               
-                <input type="submit" value="Send" onclick="sendMessage()">
+               <button id="submit" type="submit">Submit</button>
            
         </div>
       </form>
+      <div id="error"></div>
     </div>
     <div class="footer-basic">
         <footer>
@@ -123,18 +145,5 @@
     
      </div>
      <script src="contact.js"></script>
-=======
-
-            <div class="msg">
-                <textarea name="" class="area" cols="30" rows="10" placeholder="Leave a Message"></textarea>
-            </div>
-
-            <div class="btn">Send Message</div>
-        </div>
-    </div> 
-     <?php
-        include 'IncludeParts/footer.php';
-     ?>
->>>>>>> 1800d35b77dbe4330f3ceb4c44273650963930a1
     </body>
 </html>
