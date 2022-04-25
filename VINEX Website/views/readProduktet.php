@@ -1,5 +1,5 @@
 <?php
-    include_once 'controller/productsController.php';
+    include_once '../controller/productsController.php';
 
     function addAluminumCoil(){
         $id;
@@ -21,7 +21,7 @@
             $pershkrimi = $item['pershkimi'];
 
             echo "<div>";
-            echo "<img src='images/Produktet/Aluminum coil/{$foto}'>";
+            echo "<img src='../images/Produktet/Aluminum coil/{$foto}'>";
             echo "<h2>{$kodi}</h2>";
             echo "<h4>Thincness: {$thincness}</h4>";
             echo "<h4>width: {$width}</h4>";
@@ -36,7 +36,7 @@
 
         foreach($all as $item){
             echo "<div>";
-            echo "<img src='images/Produktet/Aluminum plate/{$item['foto']}'>";
+            echo "<img src='../images/Produktet/Aluminum plate/{$item['foto']}'>";
             echo "<h2>{$item['kodi']}</h2>";
             echo "<h4>Permasat: {$item['permasat']}";
             echo "</div>";
@@ -49,7 +49,7 @@
 
         foreach($all as $item){
             echo "<div>";
-            echo "<img src='images/Produktet/Bolts/{$item['foto']}'>";
+            echo "<img src='../images/Produktet/Bolts/{$item['foto']}'>";
             echo "<h2>{$item['titulli']}</h2>";
             echo "<h4>Diametri: {$item['diametri']}";
             echo "<p>{$item['pershkrimi']}</p>";
@@ -63,7 +63,7 @@
 
         foreach($all as $item){
             echo "<div>";
-            echo "<img src='images/Produktet/Nuts/{$item['foto']}'>";
+            echo "<img src='../images/Produktet/Nuts/{$item['foto']}'>";
             echo "<h2>{$item['titulli']}</h2>";
             echo "<p>{$item['pershkrimi']}</p>";
             echo "</div>";

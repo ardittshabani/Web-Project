@@ -13,7 +13,7 @@ echo  '
         </ul>
     </div>
     <div class="contanier sign-div">
-    <a href="../index.php">Sign Out</a>
+    <a href="../pages/index.php">Sign Out</a>
 </div>
 </div>
 </header>

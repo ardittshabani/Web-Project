@@ -139,7 +139,7 @@
 
             $query->execute();
 
-            return header('Location: mesages-dashboard.php');
+            return header('Location: admin-home.php');
         }
 
         public function updateAluminumPlate($request, $id){
