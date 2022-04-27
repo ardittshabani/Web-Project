@@ -52,6 +52,27 @@
             .login .input:last-child{
                 margin-right: 0;
             }
+            details {
+                 border: 1px solid #aaa;
+                 border-radius: 4px;
+                padding: .5em .5em 0;
+            }
+
+            summary {
+            font-weight: bold;
+            margin: -.5em -.5em 0;
+            padding: .5em;
+            }
+
+            details[open] {
+                padding: .5em;
+            }
+
+            details[open] summary {
+                border-bottom: 1px solid #aaa;
+                margin-bottom: .5em;
+            }
+
 
             .btn{
                 width: 250px;
@@ -81,7 +102,7 @@
         <div class="con">
         <form action="" method="post">    
             <p>contact us</p>
-
+            <form id="form" action="/" method="GET">
             <div class="login">
                 <input type="text" class="input" placeholder="Your Name" name="emri" required>
                 <input type="text" class="input" placeholder="Your Email Address" name="email" required>
@@ -109,7 +130,7 @@
     include_once '../controller/formController.php';
 
     $form = new FormController;
-
+    
     if (isset($_POST['submit'])){
         $form->insertMesages($_POST);
     }

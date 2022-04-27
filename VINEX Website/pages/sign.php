@@ -100,7 +100,7 @@
                     if (isset($_POST['submit'])){
                         $username = $_POST['username'];
                         $pasword = $_POST['paswor'];
-                        echo "<p></p>";
+                        $form->signAdminUser($username, $pasword);
                      // $form->signAdminUser($_POST['username'], $_POST['pasword']);
                     }
 

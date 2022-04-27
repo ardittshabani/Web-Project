@@ -58,8 +58,10 @@
                 if ((strcmp($item['username'], $username) ==0) && (strcmp($item['pasword'], $pasword) ==0) ){
                     if ($item['roli'] == 1){
                         return header('Location: ../Dashboard/admin-home.php');
+                        break;
                     }else {
                         return header('Location: ../pages/index.php');
+                        break;
                     }
                 }
 

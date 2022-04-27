@@ -52,6 +52,14 @@
             ?>
             </div>
         </div>
+<<<<<<< HEAD
+        
+     </div>
+    </div>
+    <div class="products">
+    
+=======
+>>>>>>> 1800d35b77dbe4330f3ceb4c44273650963930a1
     </div>
      <!--Footer -->
      <?php
